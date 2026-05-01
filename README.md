@@ -84,7 +84,7 @@ Content-Type: application/json
 
 {
   "name": "Jereiner Castiblanco",
-  "email": "jereinerortega2p13example.com",
+  "email": "jereinerexample.com",
   "password": "secret123"
 }
 ```
@@ -95,7 +95,7 @@ POST /api/auth/login
 Content-Type: application/json
 
 {
-  "email": "jereinerortega2p13@example.com",
+  "email": "jereiner@example.com",
   "password": "secret123"
 }
 ```
